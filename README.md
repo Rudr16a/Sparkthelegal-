@@ -15,7 +15,7 @@ Our site is an innnovative solution for a real life problem of lawyers that face
 
 - Click on run with live server
 
-- A sign-in page will open, fill out your phone number and enter otp
+- A sign-in page will open, fill out your phone number and enter OTP
 
 - Voila! There is the home page of the website
 
